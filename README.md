@@ -24,6 +24,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=euphoo-01&theme=darcula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=euphoo-01&theme=darcula) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=euphoo-01&theme=darcula&langs_count=8&layout=compact&exclude_repo=qr-uni)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=euphoo-01&theme=darcula&langs_count=8&layout=compact&include_repo=qr-uni)
 
           
