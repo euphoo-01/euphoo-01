@@ -23,7 +23,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" height="50px" width="50px"/>&nbsp;
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=euphoo-01&theme=darcula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=euphoo-01&theme=darcula) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euphoo-01&theme=darcula&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=euphoo-01&theme=darcula) 
 
           
