@@ -1,16 +1,23 @@
-## Hi there 👋
+<div id="header" align="center">
+  <h1>Hi there, I'm Stanislav</h1>
+  <h3>Junior Full-Stack Developer from Minsk</h3>
+</div>
+<div id="social-media" align="center">
+  <a href="https://t.me/stanislav_lavshuk"><img src="https://img.shields.io/badge/Telegram-orange?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram"></a>
+</div>
+### About me
+* I study at the Belarusian State Technological University
+* At the moment I am working on creating Web and Mobile apps
+* I speak Russian and English
+### Languages and technologies
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" height="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" title="C++" height="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" title="HTML" height="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" title="CSS" height="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" title="SASS" height="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React.js" height="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" height="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" title="LaTeX" height="50px" width="50px"/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=euphoo-01&theme=github_dark) 
 
-<!--
-**euphoo-01/euphoo-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+          
