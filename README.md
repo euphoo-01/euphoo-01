@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi there, I'm Stanislav</h1>
-  <h3>Junior Full-Stack Developer from Minsk</h3>
+  <h3>Intern Full-Stack Developer from Minsk</h3>
 </div>
 <div id="social-media" align="center">
   <a href="https://t.me/stanislav_lavshuk"><img src="https://img.shields.io/badge/Telegram-orange?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram"></a>
