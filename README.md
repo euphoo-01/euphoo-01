@@ -3,12 +3,12 @@
   <h3>Intern Frontend Developer from Minsk</h3>
 </div>
 <div id="social-media" align="center">
-  <a href="https://t.me/stanislav_lavshuk"><img src="https://img.shields.io/badge/Telegram-orange?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram"></a>
+  <a href="https://t.me/eighhty_six"><img src="https://img.shields.io/badge/Telegram-orange?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram"></a>
 </div>
 
 ### About me
 * I study at the Belarusian State Technological University
-* At the moment I am working on creating Web and Mobile apps
+* Grinding JavaScript development
 * I speak Russian and English
 
 ### Languages and technologies
