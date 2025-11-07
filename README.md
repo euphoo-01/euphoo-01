@@ -7,9 +7,9 @@
 </div>
 
 ### About me
-* I study at the Belarusian State Technological University
+* Study at the Belarusian State Technological University
 * Grinding JavaScript development
-* I speak Russian and English
+* Speak Russian (native) and English (B2)
 
 ### Languages and technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" height="50px" width="50px"/>&nbsp;
