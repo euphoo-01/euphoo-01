@@ -27,5 +27,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=euphoo-01&theme=darcula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=euphoo-01&theme=darcula) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=euphoo-01&theme=darcula&langs_count=8&layout=compact)
+![](https://www.codewars.com/users/euphoo-01/badges/large)
 
           
