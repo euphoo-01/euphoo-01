@@ -1,15 +1,15 @@
 <div id="header" align="center">
   <h1>Hi there, I'm Stanislav</h1>
-  <h3>Intern Frontend Developer from Minsk</h3>
+  <h3>Full-Stack Web developer</h3>
 </div>
 <div id="social-media" align="center">
   <a href="https://t.me/eighhty_six"><img src="https://img.shields.io/badge/Telegram-orange?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram"></a>
 </div>
 
 ### About me
-* Study at the Belarusian State Technological University
-* Grinding JavaScript development
-* Speak Russian (native) and English (B2)
+* Gaining experience in ML
+* Interested in contributing to Open-Source community
+* Skilled in JS Full-Stack Web development
 
 ### Languages and technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" height="50px" width="50px"/>&nbsp;
@@ -27,7 +27,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=euphoo-01&theme=darcula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=euphoo-01&theme=darcula) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=euphoo-01&theme=darcula&langs_count=8&layout=compact)
 ![](https://www.codewars.com/users/euphoo-01/badges/large)
 
           
