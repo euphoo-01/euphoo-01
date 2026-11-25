@@ -3,7 +3,7 @@
   <h3>Full-Stack Web developer</h3>
 </div>
 <div id="social-media" align="center">
-  <a href="https://t.me/eighhty_six"><img src="https://img.shields.io/badge/Telegram-orange?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram"></a>
+  <a href="https://t.me/sa_lavs"><img src="https://img.shields.io/badge/Telegram-orange?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram"></a>
 </div>
 
 ### About me
